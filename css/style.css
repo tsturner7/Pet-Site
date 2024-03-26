@@ -1,0 +1,23 @@
+.sideBar {
+    width: 29%;
+    background-color: blue;
+    float: left;
+}
+
+.mainBody {
+    width: 70%;
+    background-color: aquamarine;
+    float: left;
+}
+
+.topSide {
+    height: 70px;
+    width: 70px; 
+}
+
+
+.inline-block {
+    background-color: gray;
+    padding: 15px;
+    display: inline-block;
+}
